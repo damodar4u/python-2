@@ -1,0 +1,4 @@
+from urllib.request import urlopen
+content = urlopen("https://www.quora.com/")
+
+
